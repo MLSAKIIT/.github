@@ -1,11 +1,13 @@
 <p align="center"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/210643i4EC8BF4601B64E95?v=v2"/></p>
 <h1><strong><p align="center">Microsoft Student Community, KIIT Chapter</p></strong></h1>
 
+<p align="center">
 <h3 style="text-align:justify">A technical community dedicatedly working on elevating the coding culture of <br> Kalinga Institute of Industrial Technology, Bhubaneswar by providing opportunities <br>to students to work on projects and boost their analytical and logical skills along with the coding</h3>
 <h3 style="text-align:justify">
 MSC KIIT abides by SDG goals 9 and 17. With a vision of industry, innovation and infrastructure, <br>we encourage young minds to pursue knowledge in unique ways. Our Project Wing is dedicated<br> to provide the exposure to industrial projects. We partner with various technical societies and <br>organizations across the nation to strengthen the implementation of shared goals. We have<br> hosted purpose driven events, like Green Hack and Daedarus, to promote sustainable technology.
 </h3>
-<br/><br/>
+</p>
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with us </h3>
 
 <p align="center">
