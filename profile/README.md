@@ -1,6 +1,21 @@
 <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/210643i4EC8BF4601B64E95?v=v2"/>
-<h1><strong><center>Microsoft Student Community - KiiT Chapter</center></strong></h1>
+<h1><strong><p align="center">Microsoft Student Community, KIIT Chapter</p></strong></h1>
 
+<h3>A technical community dedicatedly working on elevating the coding culture of <br> Kalinga Institute of Industrial Technology, Bhubaneswar by providing opportunities <br>to students to work on projects and boost their analytical and logical skills along with the coding</h3>
+<h3>
+MSC KIIT abides by SDG goals 9 and 17. With a vision of industry, innovation and infrastructure, <br>we encourage young minds to pursue knowledge in unique ways. Our Project Wing is dedicated<br> to provide the exposure to industrial projects. We partner with various technical societies and <br>organizations across the nation to strengthen the implementation of shared goals. We have<br> hosted purpose driven events, like Green Hack and Daedarus, to promote sustainable technology.
+</h3>
+
+<h3> 🤝🏻 &nbsp;Connect with us </h3>
+
+<p align="center">
+<code>
+ <a href="https://twitter.com/msckiit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MSCKIIT" height="30" width="40" /></a>
+<a href="https://www.facebook.com/msakiit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MSCKIIT" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/msckiit/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MSCKIIT" height="30" width="40"/></a>
+<a href="https://www.instagram.com/msckiit/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MSCKIIT" height="30" width="40" /></a>
+</code>
+</p>
 <!--
 
 **Here are some ideas to get you started:**
