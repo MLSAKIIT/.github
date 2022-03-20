@@ -6,7 +6,7 @@
 MSC KIIT abides by SDG goals 9 and 17. With a vision of industry, innovation and infrastructure, <br>we encourage young minds to pursue knowledge in unique ways. Our Project Wing is dedicated<br> to provide the exposure to industrial projects. We partner with various technical societies and <br>organizations across the nation to strengthen the implementation of shared goals. We have<br> hosted purpose driven events, like Green Hack and Daedarus, to promote sustainable technology.
  </p></h3>
 <br/>
-<h3> 🤝🏻 &nbsp;Connect with us </h3>
+<h3><p align="center"> 🤝🏻 &nbsp;Connect with us </p></h3>
 
 <p align="center">
 <code>
