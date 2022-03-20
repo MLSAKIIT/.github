@@ -1,5 +1,5 @@
 <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/210643i4EC8BF4601B64E95?v=v2"/>
-<h1><strong>Microsoft Student Community - KiiT Chapter</strong></h1>
+<h1><strong><center>Microsoft Student Community - KiiT Chapter</center></strong></h1>
 
 <!--
 
